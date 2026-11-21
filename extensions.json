@@ -1,0 +1,33 @@
+{
+  "updated": "2026-11-21",
+  "note": "Unpacked Chrome extensions (Manifest V3). Download, unzip, load in chrome://extensions with Developer mode on.",
+  "extensions": [
+    {
+      "id": "video",
+      "name": "Story Studio Video Generator",
+      "version": "1.3.30",
+      "summary": "Generate videos from prompts with Google Flow, or run Gateway Studio jobs.",
+      "download": "https://github.com/theng12/kh-extensions/releases/download/video-1.3.30/kh-video-1.3.30.zip",
+      "sha256": "7f455995d52afb5ef3a38acab4a20191feb4caf921f1a39490d6c40ae7fab2f2",
+      "bytes": 81252
+    },
+    {
+      "id": "image",
+      "name": "Story Studio Image Generator",
+      "version": "0.50.34",
+      "summary": "Generate and manage images with Google AI Studio, or run Gateway Studio jobs.",
+      "download": "https://github.com/theng12/kh-extensions/releases/download/image-0.50.34/kh-image-0.50.34.zip",
+      "sha256": "a804331c5e02e587c8dcbd472eaace8c8d1839ba181930b83d30854597a4f8e5",
+      "bytes": 130142
+    },
+    {
+      "id": "audio",
+      "name": "Story Studio Audio Generator",
+      "version": "0.7.36",
+      "summary": "Generate voice and music with Fish Audio and ElevenLabs, or run Gateway Studio jobs.",
+      "download": "https://github.com/theng12/kh-extensions/releases/download/audio-0.7.36/kh-audio-0.7.36.zip",
+      "sha256": "b984d1706a483855432ad6907002acfe4734d476f4c8b0cd238597aa5b3c035f",
+      "bytes": 82327
+    }
+  ]
+}
