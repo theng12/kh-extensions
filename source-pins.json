@@ -1,5 +1,5 @@
 {
-  "note": "Content identity for extension source. Pin version + manifest_sha256 (and tree_id); commit is only a hint \u2014 it changes on any history rewrite.",
+  "note": "Pin `version` and `manifest_sha256` \u2014 manifest_sha256 is the authoritative identity; `tree_id` is a secondary check; `commit` is a HINT ONLY and changes on any history rewrite. A consumer that compares commits will keep breaking.",
   "generated": "2026-11-23",
   "extensions": [
     {
@@ -23,5 +23,6 @@
       "tree_id": "f8b16797ee6e90e9e00d81da338acda031aa7133",
       "manifest_sha256": "f8a942a060be8ace2bba941029d2b745504979e5e84573eb7a6dd08d7487bc57"
     }
-  ]
+  ],
+  "authoritative": "manifest_sha256"
 }
