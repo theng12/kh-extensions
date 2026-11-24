@@ -27,11 +27,11 @@
     {
       "id": "audio",
       "name": "Story Studio Audio Generator",
-      "version": "0.7.36",
+      "version": "0.7.37",
       "summary": "Generate organized narration audio from Story Studio KH scripts through compatible web sessions.",
-      "download": "https://github.com/theng12/kh-extensions/releases/download/audio-0.7.36/kh-audio-0.7.36.zip",
-      "sha256": "b984d1706a483855432ad6907002acfe4734d476f4c8b0cd238597aa5b3c035f",
-      "bytes": 82327,
+      "download": "https://github.com/theng12/kh-extensions/releases/download/audio-0.7.37/kh-audio-0.7.37.zip",
+      "sha256": "53373f783f813aaa6d0acc2e544054eddd0b2b8328d1dd7affb3306c435e2979",
+      "bytes": 82350,
       "icon": "https://raw.githubusercontent.com/theng12/kh-extensions/main/extensions/audio/icon.png",
       "screenshot": "https://raw.githubusercontent.com/theng12/kh-extensions/main/extensions/audio/screenshot.png"
     }
@@ -58,11 +58,11 @@
     {
       "id": "audio",
       "name": "Story Studio Audio Generator",
-      "version": "0.7.35",
+      "version": "0.7.36",
       "summary": "Generate organized narration audio from Story Studio KH scripts through compatible web sessions.",
-      "download": "https://github.com/theng12/kh-extensions/releases/download/audio-0.7.35/kh-audio-0.7.35.zip",
-      "sha256": "1ae5ae297a53405fd62fe1c8ed8ee886ff2e92316e9c5a8c15858d51fe15e17c",
-      "bytes": 82220
+      "download": "https://github.com/theng12/kh-extensions/releases/download/audio-0.7.36/kh-audio-0.7.36.zip",
+      "sha256": "b984d1706a483855432ad6907002acfe4734d476f4c8b0cd238597aa5b3c035f",
+      "bytes": 82327
     }
   ]
 }
