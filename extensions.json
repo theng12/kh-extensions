@@ -5,11 +5,11 @@
     {
       "id": "video",
       "name": "Story Studio Video Generator",
-      "version": "1.3.30",
+      "version": "1.3.31",
       "summary": "Generate videos from prompts with Google Flow, or run Gateway Studio jobs.",
-      "download": "https://github.com/theng12/kh-extensions/releases/download/video-1.3.30/kh-video-1.3.30.zip",
-      "sha256": "7f455995d52afb5ef3a38acab4a20191feb4caf921f1a39490d6c40ae7fab2f2",
-      "bytes": 81252
+      "download": "https://github.com/theng12/kh-extensions/releases/download/video-1.3.31/kh-video-1.3.31.zip",
+      "sha256": "15d2b39038905a55f81c49ed873da2848f0326179ecd18f52019a7bfe557fb18",
+      "bytes": 81337
     },
     {
       "id": "image",
@@ -36,11 +36,11 @@
     {
       "id": "video",
       "name": "Story Studio Video Generator",
-      "version": "1.3.29",
+      "version": "1.3.30",
       "summary": "Generate videos from prompts with Google Flow, or run Gateway Studio jobs.",
-      "download": "https://github.com/theng12/kh-extensions/releases/download/video-1.3.29/kh-video-1.3.29.zip",
-      "sha256": "8682ea6f6033a378ef43052e98456119da4e973456e3ae7b8a0c3033300aa30d",
-      "bytes": 81254
+      "download": "https://github.com/theng12/kh-extensions/releases/download/video-1.3.30/kh-video-1.3.30.zip",
+      "sha256": "7f455995d52afb5ef3a38acab4a20191feb4caf921f1a39490d6c40ae7fab2f2",
+      "bytes": 81252
     },
     {
       "id": "image",
