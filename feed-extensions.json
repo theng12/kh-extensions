@@ -1,0 +1,72 @@
+{
+  "extensions": [
+    {
+      "id": "video",
+      "name": "Story Studio Video Generator",
+      "version": "1.3.31",
+      "summary": "Generate videos from prompts with Google Flow, or run Gateway Studio jobs.",
+      "kind": "extension",
+      "download": "https://github.com/theng12/kh-extensions/releases/download/video-1.3.31/kh-video-1.3.31.zip",
+      "sha256": "15d2b39038905a55f81c49ed873da2848f0326179ecd18f52019a7bfe557fb18",
+      "bytes": 81337,
+      "icon": "https://raw.githubusercontent.com/theng12/kh-extensions/main/extensions/video/icon.png",
+      "screenshot": "https://raw.githubusercontent.com/theng12/kh-extensions/main/extensions/video/screenshot.png"
+    },
+    {
+      "id": "image",
+      "name": "Story Studio Image Generator",
+      "version": "0.50.34",
+      "summary": "Generate images from prompts with a signed-in provider, or work as a Gateway Studio image worker.",
+      "kind": "extension",
+      "download": "https://github.com/theng12/kh-extensions/releases/download/image-0.50.34/kh-image-0.50.34.zip",
+      "sha256": "a804331c5e02e587c8dcbd472eaace8c8d1839ba181930b83d30854597a4f8e5",
+      "bytes": 130142,
+      "icon": "https://raw.githubusercontent.com/theng12/kh-extensions/main/extensions/image/icon.png",
+      "screenshot": "https://raw.githubusercontent.com/theng12/kh-extensions/main/extensions/image/screenshot.png"
+    },
+    {
+      "id": "audio",
+      "name": "Story Studio Audio Generator",
+      "version": "0.7.37",
+      "summary": "Generate organized narration audio from Story Studio KH scripts through compatible web sessions.",
+      "kind": "extension",
+      "download": "https://github.com/theng12/kh-extensions/releases/download/audio-0.7.37/kh-audio-0.7.37.zip",
+      "sha256": "53373f783f813aaa6d0acc2e544054eddd0b2b8328d1dd7affb3306c435e2979",
+      "bytes": 82350,
+      "icon": "https://raw.githubusercontent.com/theng12/kh-extensions/main/extensions/audio/icon.png",
+      "screenshot": "https://raw.githubusercontent.com/theng12/kh-extensions/main/extensions/audio/screenshot.png"
+    }
+  ],
+  "previousExtensions": [
+    {
+      "id": "video",
+      "name": "Story Studio Video Generator",
+      "version": "1.3.30",
+      "summary": "Generate videos from prompts with Google Flow, or run Gateway Studio jobs.",
+      "kind": "extension",
+      "download": "https://github.com/theng12/kh-extensions/releases/download/video-1.3.30/kh-video-1.3.30.zip",
+      "sha256": "7f455995d52afb5ef3a38acab4a20191feb4caf921f1a39490d6c40ae7fab2f2",
+      "bytes": 81252
+    },
+    {
+      "id": "image",
+      "name": "Story Studio Image Generator",
+      "version": "0.50.33",
+      "summary": "Generate images from prompts with a signed-in provider, or work as a Gateway Studio image worker.",
+      "kind": "extension",
+      "download": "https://github.com/theng12/kh-extensions/releases/download/image-0.50.33/kh-image-0.50.33.zip",
+      "sha256": "ca4d4cfee329d4ec959d9a7499909bdfb2cfaa9cda03bd65eead5de4393f0fca",
+      "bytes": 128910
+    },
+    {
+      "id": "audio",
+      "name": "Story Studio Audio Generator",
+      "version": "0.7.36",
+      "summary": "Generate organized narration audio from Story Studio KH scripts through compatible web sessions.",
+      "kind": "extension",
+      "download": "https://github.com/theng12/kh-extensions/releases/download/audio-0.7.36/kh-audio-0.7.36.zip",
+      "sha256": "b984d1706a483855432ad6907002acfe4734d476f4c8b0cd238597aa5b3c035f",
+      "bytes": 82327
+    }
+  ]
+}
