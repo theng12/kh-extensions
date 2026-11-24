@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-24",
   "note": "Unpacked Chrome extensions (Manifest V3). Download, unzip, load in chrome://extensions with Developer mode on.",
   "extensions": [
     {
@@ -18,7 +18,9 @@
       "summary": "Generate images from prompts with a signed-in provider, or work as a Gateway Studio image worker.",
       "download": "https://github.com/theng12/kh-extensions/releases/download/image-0.50.34/kh-image-0.50.34.zip",
       "sha256": "a804331c5e02e587c8dcbd472eaace8c8d1839ba181930b83d30854597a4f8e5",
-      "bytes": 130142
+      "bytes": 130142,
+      "icon": "https://raw.githubusercontent.com/theng12/kh-extensions/main/extensions/image/icon.png",
+      "screenshot": "https://raw.githubusercontent.com/theng12/kh-extensions/main/extensions/image/screenshot.png"
     },
     {
       "id": "audio",
