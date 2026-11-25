@@ -1,6 +1,6 @@
 {
   "note": "Pin `version` and `manifest_sha256` \u2014 manifest_sha256 is the authoritative identity; `tree_id` is a secondary check; `commit` is a HINT ONLY and changes on any history rewrite. A consumer that compares commits will keep breaking.",
-  "generated": "2026-11-24",
+  "generated": "2026-11-25",
   "extensions": [
     {
       "id": "video",
@@ -11,10 +11,10 @@
     },
     {
       "id": "image",
-      "version": "0.50.35",
-      "commit": "6d4be6362544a12b3aa701801f33ccfa8c7472d3",
-      "tree_id": "1f5521d2632bd31b4498df46f562a6be2c15fb3f",
-      "manifest_sha256": "929818a9fa668010e9531cd91ae02b319e0035e10bc42719d4247d7c64def17e"
+      "version": "0.50.36",
+      "commit": "91b842b2701672a8f16eddaaa74bd8bff1ccec37",
+      "tree_id": "6d83db57ae6c0ce44de10f5c8c0171f1676bab22",
+      "manifest_sha256": "f213caef41488cea58e2644e509f7f2d103a93fc18d70d005c4d40db6a08f254"
     },
     {
       "id": "audio",
