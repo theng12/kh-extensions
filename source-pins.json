@@ -11,10 +11,10 @@
     },
     {
       "id": "image",
-      "version": "0.50.36",
-      "commit": "91b842b2701672a8f16eddaaa74bd8bff1ccec37",
-      "tree_id": "6d83db57ae6c0ce44de10f5c8c0171f1676bab22",
-      "manifest_sha256": "f213caef41488cea58e2644e509f7f2d103a93fc18d70d005c4d40db6a08f254"
+      "version": "0.50.37",
+      "commit": "dd50755f9b621276f6412c26d23e48dc41a429a0",
+      "tree_id": "3ced5a930ad7f21515b539356095760322fd6a40",
+      "manifest_sha256": "508ea4ccace9e0af66d9c2fc48ec1459f1649bbe2a08404f6492ad05e5adf232"
     },
     {
       "id": "audio",
